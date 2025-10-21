@@ -3,7 +3,6 @@ CSCI-275 PROJECT – Sprint 2
 
 This folder contains the complete backend and frontend setup for the ClinicFlow web application.
 
-Created and updated by: [Your Name]
 Branch: sprint-2
 
 
