@@ -1,0 +1,26 @@
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Next.js
+.next/
+out/
+
+# Build outputs
+dist/
+build/
+
+# Env & secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
